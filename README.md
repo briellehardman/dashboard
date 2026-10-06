@@ -29,10 +29,7 @@ The dashboard includes sample weather data, a random quote generator, a task lis
 
 ## Live Site
 
-Add your GitHub Pages URL here.
+https://briellehardman.github.io/dashboard/
 
 ## Notes
-
-The weather information is sample data stored in a JSON file. It is not live weather data.
-
 This project also includes the optional Lab 17, Lab 18, Lab 18.5, and Lab 20 extensions.
